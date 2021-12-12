@@ -2,7 +2,6 @@ import java.util.Scanner
 
 fun main(){
     val scn = Scanner(System.`in`)
-
     var testCase = 0
     var num1 = 0
     var num2 = 0
