@@ -9,6 +9,7 @@ fun main(){
     // input test case
     if(scn.hasNext()) testCase = scn.nextInt()
 
+    // iterate until testCase will not be 1
     while(testCase > 0){
         if(scn.hasNext()) num1 = scn.nextInt()
         if(scn.hasNext()) num2 = scn.nextInt()
@@ -18,5 +19,4 @@ fun main(){
 
         testCase--          // decrement test case
     }
-
 }
